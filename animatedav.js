@@ -29,7 +29,7 @@ module.exports = {
         }
 
         if (error) return;
-        await sendMessage('Peace there is an error. Please await ✌️')
+        await sendMessage('I have uploaded your avatar ✌️')
 
         
     }
