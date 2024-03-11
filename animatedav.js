@@ -28,6 +28,9 @@ module.exports = {
             return;
         }
 
+        if (error) return;
+        await sendMessage('Peace there is an error. Please await ✌️')
+
         
     }
 }
